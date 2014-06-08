@@ -1,7 +1,7 @@
 tips =
     "peabody"       : "http://flowtv.org/wp-content/uploads/2009/03/peabody.png"
     "wtf"           : "You got a problem?"
-    "wiki"          : "http://wiki.scprdev.org/web/show/HomePage"
+    "wiki"          : "http://github.com/SCPR/wiki"
     "fliptable"     : "(ノಠ益ಠ)ノ彡┻━┻"
     "imagination"   : "http://i.imgur.com/4VKqndq.jpg"
     "facepalm"      : "http://i.imgur.com/4G1ZZWc.jpg"

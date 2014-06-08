@@ -1,1 +1,12 @@
-["redis-brain.coffee", "shipit.coffee"]
+[
+  "applause.coffee",
+  "foass.coffee",
+  "gob.coffee",
+  "inigo-montoya.coffee",
+  "kittens.coffee",
+  "moarcatsme.coffee",
+  "rdio.coffee",
+  "redis-brain.coffee",
+  "remind.coffee",
+  "shipit.coffee", 
+]
