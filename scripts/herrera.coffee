@@ -24,4 +24,5 @@ herreras = [
 
 module.exports = (robot) ->
   robot.hear /herrera/i, (msg) ->
-    msg.send msg.random hererras
+    random_herrera = herreras[Math.floor(Math.random() * herreras.length)]
+    msg.send random_herrera
