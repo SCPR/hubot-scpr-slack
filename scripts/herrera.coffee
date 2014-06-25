@@ -18,6 +18,7 @@ herreras = [
   "http://i.imgur.com/R5fAwRc.gif",
   "http://i.imgur.com/WB2pc3n.gif",
   "http://i.imgur.com/JO4uMRz.gif",
+  "http://i.imgur.com/JO4uMRz.gif",
   "http://i.imgur.com/I1QlwV0.gif",
   "http://i.imgur.com/zC7WT2w.gif"
 ]
