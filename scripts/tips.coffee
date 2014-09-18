@@ -12,6 +12,7 @@ tips =
     "derp"          : "http://i.imgur.com/EsiDxmt.png"
     "frysquint"     : "http://i.imgur.com/sb5qsC2.jpg"
     "king me"       : "http://i.imgur.com/mS39ywd.jpg"
+    "jealous dog"   : "http://a.scpr.org/i/c3ec858276a52b33e201454bb450abf7/88876-eight.jpg"
 
 module.exports = (robot) ->
     #-------------------
