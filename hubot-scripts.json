@@ -7,5 +7,6 @@
   "moarcatsme.coffee",
   "redis-brain.coffee",
   "remind.coffee",
-  "shipit.coffee" 
+  "shipit.coffee",
+  "stakeholder.coffee"
 ]
