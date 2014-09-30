@@ -12,7 +12,7 @@ tips =
     "derp"              : "http://i.imgur.com/EsiDxmt.png"
     "frysquint"         : "http://i.imgur.com/sb5qsC2.jpg"
     "king me"           : "http://i.imgur.com/mS39ywd.jpg"
-    "see what I mean"   : "http://i.imgur.com/vhXx8ue.gif"
+    "swim"              : "http://i.imgur.com/vhXx8ue.gif"
     "jealous dog"       : "http://a.scpr.org/i/c3ec858276a52b33e201454bb450abf7/88876-eight.jpg"
 
 module.exports = (robot) ->
@@ -50,6 +50,9 @@ module.exports = (robot) ->
 
     robot.hear /you're fired/i, (msg) ->
         msg.send tips['trump']
+
+    robot.hear /see what I mean/i, (msg) ->
+        msg.send tips['swim']
 
     robot.hear /^hmm+/i, (msg) ->
         msg.send tips['homer']
