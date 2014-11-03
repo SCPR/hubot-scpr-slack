@@ -53,6 +53,3 @@ module.exports = (robot) ->
 
     robot.hear /see what I mean/i, (msg) ->
         msg.send tips['swim']
-
-    robot.hear /^hmm+/i, (msg) ->
-        msg.send tips['homer']
