@@ -14,6 +14,7 @@ tips =
     "king me"           : "http://i.imgur.com/mS39ywd.jpg"
     "swim"              : "http://i.imgur.com/vhXx8ue.gif"
     "jealous dog"       : "http://a.scpr.org/i/c3ec858276a52b33e201454bb450abf7/88876-eight.jpg"
+    "imbecile"          : "http://33.media.tumblr.com/tumblr_lqx6eoeR8T1qmt8ipo1_500.gif"
 
 module.exports = (robot) ->
     #-------------------
@@ -53,3 +54,9 @@ module.exports = (robot) ->
 
     robot.hear /see what I mean/i, (msg) ->
         msg.send tips['swim']
+
+    robot.hear /my mistake/i, (msg) ->
+        msg.send tips['imbecile']
+
+    robot.hear /I screwed up/i, (msg) ->
+        msg.send tips['imbecile']
