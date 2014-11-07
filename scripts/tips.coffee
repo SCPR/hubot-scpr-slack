@@ -15,6 +15,7 @@ tips =
     "swim"              : "http://i.imgur.com/vhXx8ue.gif"
     "jealous dog"       : "http://a.scpr.org/i/c3ec858276a52b33e201454bb450abf7/88876-eight.jpg"
     "imbecile"          : "http://33.media.tumblr.com/tumblr_lqx6eoeR8T1qmt8ipo1_500.gif"
+    "vacation days"     : "http://infoserverwiki.publicradio.org/index.php/2014_Holiday_Schedule"
 
 module.exports = (robot) ->
     #-------------------
