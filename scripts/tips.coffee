@@ -13,6 +13,7 @@ tips =
     "frysquint"         : "http://i.imgur.com/sb5qsC2.jpg"
     "king me"           : "http://i.imgur.com/mS39ywd.jpg"
     "swim"              : "http://i.imgur.com/vhXx8ue.gif"
+    "mischief"          : "http://media.giphy.com/media/cnCwYWzCkwOoE/giphy.gif"
     "jealous dog"       : "http://a.scpr.org/i/c3ec858276a52b33e201454bb450abf7/88876-eight.jpg"
     "imbecile"          : "http://33.media.tumblr.com/tumblr_lqx6eoeR8T1qmt8ipo1_500.gif"
     "vacation days"     : "http://infoserverwiki.publicradio.org/index.php/2014_Holiday_Schedule"
