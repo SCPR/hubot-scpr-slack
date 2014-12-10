@@ -1,8 +1,0 @@
-#!/usr/bin/env node
-
-module.exports = function(robot) {
-  var standUpTime;
-  return standUpTime = function() {
-    return robot.messageRoom("#kernelpanic", "OK everyone it's standup time!");
-  };
-};
